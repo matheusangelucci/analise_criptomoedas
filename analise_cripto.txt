@@ -1,0 +1,16 @@
+ANÁLISE DA CRIPTOMOEDA: BTC
+
+- Maior preço de BTC: $63503.46
+- Menor preço de BTC: $68.43
+- Média de preço de BTC: $6711.29
+- Valorização de BTC entre 2013 e 2021: 23585.62%
+
+
+ANÁLISE DA CRIPTOMOEDA: ETH
+
+- Maior preço de ETH: $4168.7
+- Menor preço de ETH: $0.43
+- Média de preço de ETH: $383.91
+- Valorização de ETH entre 2015 e 2021: 308489.19%
+
+
